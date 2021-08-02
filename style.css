@@ -1,0 +1,165 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+    background-color: lightcoral;
+    text-align: center;
+}
+
+.header_div{
+    background-color: white;
+    color: red;
+}
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background-color: #ffd2c7;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 310px;
+
+    border: 3px solid white;
+}
+.main_div label{
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#result{
+    border: 3px solid yellow;
+    margin-top: 20px;
+    width: 350px;
+}
+
+.main_div2{
+    background-color: #ffa088;
+    padding: 10px;
+    margin: 15px;
+    margin-left: 310px;
+
+    border: 3px solid white;
+}
+.main_div2 label{
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#image{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div2 button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+#result2{
+    border: 3px solid rgb(47, 0, 255);
+    margin-top: 20px;
+    width: 350px;
+}
+
+.main_div3{
+    background-color: #8a88ff;
+    padding: 10px;
+    margin: 15px;
+    margin-left: 310px;
+
+    border: 3px solid white;
+}
+.main_div3 label{
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#image{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div3 button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+#span3{
+    color: rgb(255, 230, 0);
+}
+
+#result3{
+    border: 3px solid rgb(136, 255, 0);
+    margin-top: 20px;
+    width: 350px;
+}
+
+.main_div4{
+    background-color: yellow;
+    padding: 10px;
+    margin: 15px;
+    margin-left: 310px;
+
+    border: 3px solid white;
+}
+.main_div4 label{
+    background-color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#image{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div4 button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+#result4{
+    border: 3px solid rgb(255, 0, 0);
+    margin-top: 20px;
+    width: 350px;
+}
+
+span{
+    color: blue;
+}
+
+#tr{
+    border: 3px solid white;
+    box-shadow: 3px 3px 18px white;
+    margin-top: 1950px;
+    width: 700px;
+    margin-left: -60px;
+    background-color: greenyellow;
+    margin-bottom: 20px;
+}
